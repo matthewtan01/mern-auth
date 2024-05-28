@@ -16,6 +16,7 @@ const userSchema = new mongoose.Schema({
         required: true,
     }
 }, {timestamps: true});
+// 2 extra information (handled by MongoDB)
 // time of creation and time of edit
 
 const User = mongoose.model('User', userSchema);
