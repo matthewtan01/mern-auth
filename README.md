@@ -10,3 +10,7 @@
 ## References
 
 - [YouTube Tutorial](https://www.youtube.com/watch?v=rXvQj-Z0v0s)
+
+---
+
+Deployed at: [https://mern-auth-2zx3.onrender.com/sign-in](https://mern-auth-2zx3.onrender.com/sign-in)
