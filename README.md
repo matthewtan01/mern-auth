@@ -6,7 +6,12 @@
 - Redux: Learned how to manage application state using Redux, including actions, reducers, and the Redux store.
 - Bcrypt: Learned how to hash passwords using Bcrypt to securely store user credentials.
 - Dotenv: Learned how to create environment variables to hide sensitive information.
+- Firebase: Learned how to use Firebase storage to store images uploaded by users.
 
 ## References
 
 - [YouTube Tutorial](https://www.youtube.com/watch?v=rXvQj-Z0v0s)
+
+---
+
+Deployed at: [https://mern-auth-2zx3.onrender.com/sign-in](https://mern-auth-2zx3.onrender.com/sign-in)
