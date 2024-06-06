@@ -5,7 +5,7 @@ import { useDispatch } from 'react-redux';
 import { signInSuccess } from "../redux/user/userSlice";
 import { useNavigate } from 'react-router-dom';
 
-export default function () {
+export default function OAuth() {
     const navigate = useNavigate();
     const dispatch = useDispatch();
     const handleGoogleClick = async () => {
